@@ -1,0 +1,3 @@
+# Keep datasets local. The placeholder below preserves the directory in Git.
+/data/*
+!/data/.gitkeep
